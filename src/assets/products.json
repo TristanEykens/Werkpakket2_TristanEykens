@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Ruby",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 234.99,
     "btw": 0.21,
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "title": "Sapphire",
-    "description": "AAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 876.99,
     "btw": 0.21,
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "title": "Pyrite",
-    "description": "AAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 898.99,
     "btw": 0.21,
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "title": "Amethyst",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 123.99,
     "btw": 0.21,
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "title": "Emerald",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 345.99,
     "btw": 0.21,
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "title": "Diamond",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 684.99,
     "btw": 0.21,
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "title": "Garnet",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 222.99,
     "btw": 0.21,
@@ -86,7 +86,7 @@
   {
     "id":8,
     "title": "Opal",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 420.69,
     "btw": 0.21,
@@ -98,7 +98,7 @@
   {
     "id":9,
     "title": "Lolite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 120.99,
     "btw": 0.21,
@@ -110,7 +110,7 @@
   {
     "id":10,
     "title": "Amazonite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 528.99,
     "btw": 0.21,
@@ -122,7 +122,7 @@
   {
     "id":11,
     "title": "Citrine",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 197.99,
     "btw": 0.21,
@@ -134,7 +134,7 @@
   {
     "id":12,
     "title": "Lazurite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 666.99,
     "btw": 0.21,
@@ -146,7 +146,7 @@
   {
     "id":13,
     "title": "Peridot",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 999.99,
     "btw": 0.21,
@@ -158,7 +158,7 @@
   {
     "id":14,
     "title": "Tantalite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 555.99,
     "btw": 0.21,
@@ -170,7 +170,7 @@
   {
     "id":15,
     "title": "Vivianite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 444.99,
     "btw": 0.21,
@@ -182,7 +182,7 @@
   {
     "id":16,
     "title": "Zircon",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 212.99,
     "btw": 0.21,
@@ -194,7 +194,7 @@
   {
     "id":17,
     "title": "Bismuth",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 777.99,
     "btw": 0.21,
@@ -206,7 +206,7 @@
   {
     "id":18,
     "title": "Amarantite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 957.99,
     "btw": 0.21,
@@ -218,7 +218,7 @@
   {
     "id":19,
     "title": "Adamite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 782.99,
     "btw": 0.21,
@@ -230,7 +230,7 @@
   {
     "id":20,
     "title": "Argentite",
-    "description": "AAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. AAAAAAAAAAAAAA",
+    "description": "a precious or semi-precious stone, especially when cut and polished or engraved.",
     "image": "src/assets/Amethyst.jpg",
     "price": 491.99,
     "btw": 0.21,
